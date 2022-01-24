@@ -1,4 +1,4 @@
-import { IApiEndpoint, IApiEndpointMetadata } from "../api";
+import { IApiEndpoint, IEnvironmentRead, IApiEndpointMetadata } from "../api";
 import { IRead, IHttp } from '../../definition/accessors'
 
 

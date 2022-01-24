@@ -1,4 +1,4 @@
-import { IMessage } from "../message/IMessage";
+import { IMessage } from "../messages/IMessage";
 
 
 export interface IDiscussionBuilder {

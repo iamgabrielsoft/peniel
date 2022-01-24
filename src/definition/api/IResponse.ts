@@ -1,3 +1,6 @@
+import { HttpStatusCode } from '../accessors'
+
+
 
 
 export interface IApiResponse {
@@ -5,6 +8,8 @@ export interface IApiResponse {
     headers?: { [key: string]: string}; 
     content?: any
 }
+
+
 
 export interface IApiResponseJSON {
     status: HttpStatusCode; 
