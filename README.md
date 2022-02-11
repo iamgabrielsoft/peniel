@@ -10,3 +10,14 @@ It reduces the time to build chat applications drastically and provides essentia
 
 ChatEngine is designed to be extensible and includes a plugin framework to make adding new features simple.
 
+
+### Prerequisite
+
+* You have installed the latest version of `Nodejs`
+
+
+
+
+
+### Reactjs
+* Bare bones react web example.
