@@ -1,7 +1,7 @@
 
 ## PENIEL - The Chat-Engine
 
-
+![GitHub stars](https://img.shields.io/github/stars/peniel/peniel?style=peniel)
 
 Peniel is an Open Source event-emitter chat engine based framework for building chat applications in Javascript.
 
