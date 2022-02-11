@@ -3,7 +3,6 @@
 
 
 
-Mazaryn Social is a `social platform` that allows `users` to do `engage with each other while they earn ZARYN coins`.
 Peniel is an Open Source event-emitter chat engine based framework for building chat applications in Javascript.
 
 It reduces the time to build chat applications drastically and provides essential components like typing indicators, online presence monitoring and message history out of the box.
